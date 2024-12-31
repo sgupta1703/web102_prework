@@ -1,29 +1,29 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *CrowdWave*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sarthak Gupta**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CrowdWave** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✓] The introduction section explains the background of the company and how many games remain unfunded.
+* [✓] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✓] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✓] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-
+* The filtering buttons have a hover annimation that changes size and color to green
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1HLJEB7ZKuvGT8GhJ8p_QAhgPEQNgFZfs/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,6 +36,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+-I couldn't figure out how to make the filt functions at first because I was using the GAMES_JSON as the input to the filter function. But I had to use another variable (game).
 ## License
 
     Copyright [yyyy] [name of copyright owner]

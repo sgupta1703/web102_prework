@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe src="https://drive.google.com/file/d/1HLJEB7ZKuvGT8GhJ8p_QAhgPEQNgFZfs/preview" width="640" height="480" title="Video Walkthrough"></iframe>
+[Video Walkthrough](https://drive.google.com/file/d/1HLJEB7ZKuvGT8GhJ8p_QAhgPEQNgFZfs/view?usp=sharing)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
